@@ -9,7 +9,7 @@
 - VaiCorinthians
 
 ## This is me
-![Avatar Github](https://user-images.githubusercontent.com/104040784/169191599-f9d3d472-cfbc-448e-a72d-32b410d70d04.jpeg )
+![Avatar Github](https://user-images.githubusercontent.com/104040784/169191599-f9d3d472-cfbc-448e-a72d-32b410d70d04.jpeg width="200px" /> )
 
 
 ## You can contact me:
@@ -28,11 +28,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 ### Backend
-
-
-### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
+### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
